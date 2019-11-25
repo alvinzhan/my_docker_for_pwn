@@ -1,5 +1,4 @@
 # My_docker_for_pwn
-=========
 A docker environment for pwn in ctf based on ubuntu18.04, just treat it as a simple docker container.
     
 ## Tools
@@ -47,7 +46,7 @@ $ docker pull encry1024/pwn:19.04 # 19.04 or 18.04 or 16.04
     
     docker run -it --name {{your_container_name}} {{image}} {{command}}
     docker start -ia {{your_container_name_or_id}}
-	  docker exec -it {{your_container_name_or_id}} /bin/bash
+    docker exec -it {{your_container_name_or_id}} /bin/bash
     
 
 ## Contributor
