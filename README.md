@@ -39,7 +39,7 @@ A docker environment for pwn in ctf based on ubuntu18.04, just treat it as a sim
 ### Docker pull from Docker Hub
 
 ```
-$ docker pull encry1024/pwn:19.04 # 19.04 or 18.04 or 16.04
+$ docker pull alvinzhan/ubuntu18.04_for_pwn
 ```
 
 ### Start to use
